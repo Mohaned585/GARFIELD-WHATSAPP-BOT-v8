@@ -47,11 +47,11 @@ global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png
 global.sp = '⭔'
 global.mess = {
     success: 'Done 🦋', // 👈 You Can change this your choice
-    admin: 'بطل لعب يا بابا, // 👈 You Can change this your choice
+    admin: 'بطل لعب يا بابا', // 👈 You Can change this your choice
     botAdmin: 'لازم اكون ادمن!', // 👈 You Can change this your choice
     owner: 'لما رعد يؤمرني!', // 👈 You Can change this your choice
     group: 'في الجروبات بس!', // 👈 You Can change this your choice
-    private: 'في البرايفيت بس!', // 👈 You Can change this your choice
+    private: 'في البرايفيت بس!', // 👈 You Can change this your choic
     bot: 'دا شغلي انا ملكش دعوه', // 👈 You Can change this your choice
     wait: 'اصبر علي نفسك الدنيا هتطير', // 👈 You Can change this your choice
     error: 'Error! Maybe Api Key Is Expired🤔!', // 👈 You Can change this your choice
